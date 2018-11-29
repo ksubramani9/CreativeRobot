@@ -1,0 +1,10 @@
+#Keertana Subramani GT ID: 903156496
+#keertana@gatech.edu
+#Christine Type, Jeremiah Dir and I, Keertana Subramani, worked on this assignment alone, using only this semester's course materials.
+
+
+The movie about a Scribblr with a mission. A mission to draw a double star and then a spiral onto a whiteboard.
+This is a split perspectives piece, with one half being his sight, the other being his partner’s. 
+We used splitScreen to split the screen, a modified fade to darken the screen every five frames or so to sim blinking, 
+then overlay every so often to display a message.
+No deviations were made. 
